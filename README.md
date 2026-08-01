@@ -10,11 +10,5 @@
 待完成 <br>
 
 ## 六自由度采摘机器人
-1. robot_6dof_indoor <br>
-适用于实验室内 <br>
-
-2. robot_6dof_greenhouse <br>
-
-
-3. robot_6dof_field <br>
+1. tomatoSegment正式版Only_stem为比赛使用代码 <br>
 
