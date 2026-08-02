@@ -11,8 +11,8 @@
 
 ## 六自由度采摘机器人
 1. robot_6dof_xiongan <br>
-介绍该代码的基本功能 <br>
-tomatoSegment正式版Only_stem为比赛使用代码 <br>
+2026.7.28雄安比赛使用代码 <br>
+
 
 2. robot_6dof_indoor <br>
-介绍该代码的基本功能 <br>
+赛前实验室压力测试代码 <br>
