@@ -1,0 +1,16 @@
+numpy>=1.22
+opencv-contrib-python==4.10.0.84
+pyserial>=3.5
+pygrabber>=0.2
+matplotlib>=3.7
+pyorbbecsdk2>=2.1
+spatialmath-python>=1.1
+robotic-arm>=1.1.5
+ultralytics>=8.0
+roboticstoolbox-python>=1.1
+open3d>=0.18
+configargparse>=1.7
+ipywidgets>=8.1
+nbformat>=5.10
+scipy>=1.10
+pillow>=10
