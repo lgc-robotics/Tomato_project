@@ -1,0 +1,40 @@
+# Python local environments and caches
+host_pc/.venv/
+host_pc/.venv1/
+host_pc/venv/
+host_pc/env/
+host_pc/__pycache__/
+host_pc/**/*.py[cod]
+
+# Runtime captures and local experiments
+host_pc/运行记录/
+host_pc/多点手眼标定/
+host_pc/双视角验证/
+host_pc/tmp/
+*.log
+*.zip
+*.bak
+*.codex.bak
+
+# IDE state
+.idea/
+.vscode/
+
+# Keil generated files and user state
+firmware/**/Objects/
+firmware/**/Listings/
+firmware/**/*.uvguix.*
+firmware/**/*.uvgui.*
+firmware/**/*.build_log.htm
+firmware/**/*.map
+firmware/**/*.lst
+firmware/**/*.o
+firmware/**/*.obj
+firmware/**/*.crf
+firmware/**/*.d
+firmware/**/*.axf
+firmware/**/*.lnp
+
+# Only the production model belongs in this demo directory
+host_pc/*.pt
+!host_pc/best2.pt
